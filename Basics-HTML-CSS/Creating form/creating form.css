@@ -1,0 +1,20 @@
+
+        form{
+            padding: 20px;
+            margin-left: 10%;
+            border: 5px solid ;
+            width: 50%;
+            width: 500px;
+            background-color: rgb(170, 177, 70);
+        }
+        h1{
+            text-align: center;
+            background-color: aqua;
+        }
+         form select{
+            margin: 8px 0;
+        }
+        form label{
+            display: inline-block;
+            width:180px;
+        }
